@@ -4,6 +4,8 @@ The main theme of this project is Mental Health Support. Here an user can get ap
 
 ## User/Patient Side
 
+`https://freshmindsnepal.vercel.app/`
+
 The Patient needs to register from the register page. Then only after that, they can request for an appointment.
 
 ### Features
@@ -13,7 +15,9 @@ Users can access features such as news and meditation music without registering 
 ### Appointment
 
 Patient can request for appointment by filling up the form in 
+
 `/appointment/book`
+
 Then they need to provide payment detail and only after that appointment can be made.
 
 ### Chat
@@ -22,7 +26,9 @@ Patient can chat with doctor in
 `/chat/`
 and can also video chat.
 
-## User/Patient Side
+## Doctor Side
+
+`https://doctor-frontend.vercel.app/`
 
 The Doctor will be provided with the login details from the admin.
 
